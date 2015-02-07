@@ -1,4 +1,4 @@
-""" CoinDispenser class module """
+""" machine class module """
 # 2015-02-07
 # Joseph Urbanski
 # MPCS 50101
